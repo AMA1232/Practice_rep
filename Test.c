@@ -2,9 +2,12 @@
 int main()
 {
     int num;
+    char n[20];
     printf("Enter your age : ");
     scanf("%d" , &num);
     printf("You are %d years old", num);
-    printf("");
+    printf("\nHi enter your name : ");
+    scanf(" %s" , n);
+    printf("\nHi, %s", n);
     return 0;
 }
