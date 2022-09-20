@@ -6,6 +6,5 @@ int main()
     scanf("%d" , &num);
     printf("You are %d years old", num);
     printf("Hi, my name is Adam Ajour");
-    printf("HI");
     return 0;
 }
