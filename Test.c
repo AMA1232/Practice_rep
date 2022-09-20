@@ -9,5 +9,6 @@ int main()
     printf("\nHi enter your name : ");
     scanf(" %s" , n);
     printf("\nHi, %s", n);
+    print("hi");
     return 0;
 }
